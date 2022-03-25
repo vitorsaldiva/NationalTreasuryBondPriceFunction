@@ -1,0 +1,14 @@
+{
+  "version": "2.0",
+  "logging": {
+    "logLevel": {
+      "TreasuryBondPrice": "Information"
+    },
+    "applicationInsights": {
+      "samplingSettings": {
+        "isEnabled": true,
+        "excludedTypes": "Request"
+      }
+    }
+  }
+}
